@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>body</value>
-      <webElementGuid>d9ddea45-cc8a-4128-832f-be6370de9b86</webElementGuid>
+      <webElementGuid>15a471ba-dada-4fdc-8a78-db7317b278a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -95,7 +95,7 @@ Choose a file on your system and then click upload. Or, drag and drop a file int
   
 
 id(&quot;file-upload&quot;)</value>
-      <webElementGuid>719aab3f-58dc-4522-b04d-0f43c18d0968</webElementGuid>
+      <webElementGuid>dc33f14a-4576-471d-81ea-53fe9313686f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@ id(&quot;file-upload&quot;)</value>
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;no-js&quot;]/body[1]</value>
-      <webElementGuid>d248797c-e1c0-4853-9913-0fbd9e385cbe</webElementGuid>
+      <webElementGuid>76e9916a-2603-420e-9f78-39279ad9124e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -111,7 +111,7 @@ id(&quot;file-upload&quot;)</value>
       <name>xpath:position</name>
       <type>Main</type>
       <value>//body</value>
-      <webElementGuid>47598f67-7196-47a0-8376-c53f556abcf6</webElementGuid>
+      <webElementGuid>a9331de9-bcbe-44f6-9475-ae052839cbc8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -249,6 +249,6 @@ Choose a file on your system and then click upload. Or, drag and drop a file int
   
 
 id(&quot;file-upload&quot;)&quot;))]</value>
-      <webElementGuid>3964b385-abea-4fcb-b119-a6748fda880e</webElementGuid>
+      <webElementGuid>f1f20888-2ed5-4028-9eb8-155f411356dc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

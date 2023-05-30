@@ -21,8 +21,9 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://the-internet.herokuapp.com/upload')
 
-WebUI.uploadFile(findTestObject('Object Repository/TC001_SingleTest/Page_The Internet/body_drag-drop-upload   border-style dashed_e1804e'), 
-    '/Users/cinte/Rivan/testing.txt')
+WebUI.uploadFile(findTestObject('Object Repository/TC001_SingleTest/Page_The Internet/input_File Uploader_file'), '/Users/cinte/Rivan/testing.txt')
 
 WebUI.click(findTestObject('Object Repository/TC001_SingleTest/Page_The Internet/input_File Uploader_file-submit'))
+
+WebUI.closeBrowser()
 
