@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+file_upload,Chrome 113.0.0.0,,,2023-05-30 20:07:11,2023-05-30 20:07:25,13.888s,PASSED
+,,,,,,,
+Test Cases/TC002_DrivenTestingCase,Chrome 113.0.0.0,,,2023-05-30 20:07:12,2023-05-30 20:07:25,12.830s,PASSED
+"openBrowser("""")",Chrome 113.0.0.0,,,2023-05-30 20:07:13,2023-05-30 20:07:19,6.684s,PASSED
+"navigateToUrl(""http://the-internet.herokuapp.com/upload"")",Chrome 113.0.0.0,,,2023-05-30 20:07:19,2023-05-30 20:07:22,3.112s,PASSED
+"uploadFile(findTestObject(""Object Repository/TC002_DrivenTesting/Page_The Internet/input_File Uploader_file""), file)",Chrome 113.0.0.0,,,2023-05-30 20:07:22,2023-05-30 20:07:23,0.829s,PASSED
+"click(findTestObject(""Object Repository/TC002_DrivenTesting/Page_The Internet/input_File Uploader_file-submit""))",Chrome 113.0.0.0,,,2023-05-30 20:07:23,2023-05-30 20:07:24,1.133s,PASSED
+closeBrowser(),Chrome 113.0.0.0,,,2023-05-30 20:07:24,2023-05-30 20:07:25,0.343s,PASSED

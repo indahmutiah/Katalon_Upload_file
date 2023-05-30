@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002_DrivenTestingCase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da56d496-01d5-4305-a064-27ca464fb902</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3e5e5a54-6238-4256-aee0-2c80afc28486</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3e5e5a54-6238-4256-aee0-2c80afc28486</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>
